@@ -1,6 +1,7 @@
 {
     "private": true,
     "scripts": {
+        "start": "node src/index.js"
         "dev": "npm run development",
         "development": "mix",
         "watch": "mix watch",
